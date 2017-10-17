@@ -1,3 +1,5 @@
+import processing.video.*;
+
 PImage image1;
 int sizePixel;
 
